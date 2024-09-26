@@ -31,5 +31,5 @@ Je suis à la recherche d'une **alternance** où je pourrais mettre en pratique 
 
 ## 📫 Me contacter
 - **Email** : contact@nicolaslinck.com
-- **Portfolio** : [nicolaslinck.com](nicolaslinck.com)
+- **Portfolio** : [nicolaslinck.com](https://nicolaslinck.com)
 - **LinkedIn** : [linkedin.com/in/nicolas-linck](https://www.linkedin.com/in/nicolas-linck)
