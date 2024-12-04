@@ -4,7 +4,7 @@ Je suis étudiant en deuxième année de **Bachelor Universitaire de Technologie
 
 ## 🚀 Compétences techniques
 - **Langages** : HTML, CSS, JavaScript, PHP
-- **Frameworks** : Bootstrap, Tailwind CSS, Angular (débutant)
+- **Frameworks** : React (en cours d'apprentissage), Bootstrap, Tailwind CSS, Angular (débutant)
 - **Outils** : Figma (UI/UX), Suite Adobe (Photoshop, Illustrator), WordPress
 - **Bases de données** : MySQL, PhpMyAdmin
 - **Autres** : Git, GitHub, JSON
