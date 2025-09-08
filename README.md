@@ -1,12 +1,12 @@
 # 👋 Bonjour, je suis Nicolas Linck
 
-Je suis étudiant en deuxième année de **Bachelor Universitaire de Technologie (BUT) Métiers du Multimédia et de l'Internet** à l'IUT Paul Sabatier. Actuellement à la recherche d'une **alternance** en développement web à partir de janvier, je suis passionné par les technologies du web et j'aime travailler sur des projets qui me poussent à améliorer mes compétences.
+Je suis étudiant en première année de cycle ingénieur à **l'école d'ingenieur ISIS**. Actuellement à la recherche d'une **alternance** en développement full-stack ou logiciel, je suis passionné par les technologies du web et j'aime travailler sur des projets qui me poussent à améliorer mes compétences.
 
 ## 🚀 Compétences techniques
-- **Langages** : HTML, CSS, JavaScript, PHP
-- **Frameworks** : React (en cours d'apprentissage), Bootstrap, Tailwind CSS, Angular (débutant)
+- **Langages** : HTML, CSS, JavaScript, PHP, JAVA, Python
+- **Frameworks** : React (en cours d'apprentissage), Bootstrap, Tailwind CSS, Angular (débutant), Laravel
 - **Outils** : Figma (UI/UX), Suite Adobe (Photoshop, Illustrator), WordPress
-- **Bases de données** : MySQL, PhpMyAdmin
+- **Bases de données** : MySQL
 - **Autres** : Git, GitHub, JSON
 
 ## 🔧 Projets sur lesquels j'ai travaillé
@@ -23,13 +23,12 @@ Toujours curieux de découvrir de nouvelles technologies, je me forme actuelleme
 - **CSS avancé** : Expérimentation avec des mises en page complexes et des animations en utilisant Tailwind et Bootstrap.
 
 ## 🛠️ Projets en cours
-- **Projet fictif d'un site web pour un Coffee Shop** : Développement d'un site en **HTML**, **Bootstrap**, **PHP**, et **JavaScript** pour simuler un site de Coffee Shop avec des fonctionnalités dynamiques, comme la gestion des commandes et des avis clients.
 - **V2 de mon portfolio** : Amélioration de mon portfolio actuel en y intégrant des nouvelles fonctionnalités et en optimisant son design et ses performances.
 
 ## 💡 Ce que je recherche
 Je suis à la recherche d'une **alternance** où je pourrais mettre en pratique mes compétences, apprendre au sein d'une équipe professionnelle et continuer à évoluer en tant que développeur. Je suis motivé par les nouveaux défis et impatient de travailler sur des projets enrichissants.
 
 ## 📫 Me contacter
-- **Email** : contact@nicolaslinck.com
-- **Portfolio** : [nicolaslinck.com](https://nicolaslinck.com)
+- **Email** : nicolaslinck83@outlook.fr
+- **Portfolio** : [nicolaslinck.fr](https://nicolaslinck.com)
 - **LinkedIn** : [linkedin.com/in/nicolas-linck](https://www.linkedin.com/in/nicolas-linck)
