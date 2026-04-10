@@ -4,9 +4,9 @@ Je suis étudiant en première année de cycle ingénieur à **l'école d'ingeni
 
 ## 🚀 Compétences techniques
 - **Langages** : HTML, CSS, JavaScript, PHP, JAVA, Python
-- **Frameworks** : React (en cours d'apprentissage), Bootstrap, Tailwind CSS, Angular (débutant), Laravel
+- **Frameworks** : React, Bootstrap, Tailwind CSS, Angular (débutant), Laravel
 - **Outils** : Figma (UI/UX), Suite Adobe (Photoshop, Illustrator), WordPress
-- **Bases de données** : MySQL
+- **Bases de données** : MySQL, PgSQL, SQLite
 - **Autres** : Git, GitHub, JSON
 
 ## 🔧 Projets sur lesquels j'ai travaillé
@@ -15,18 +15,6 @@ Je suis étudiant en première année de cycle ingénieur à **l'école d'ingeni
 - **Com to Brest** : Projet fictif de création d’un site web pour une entreprise fictive, dans lequel j'ai réalisé la conception et le développement d’un site en utilisant HTML, CSS, et JavaScript. Ce projet m’a permis de travailler sur la **gestion de la communication digitale** et d’intégrer des aspects de **référencement SEO**.
 - **Portfolio Personnel** : Création et mise à jour continue de mon portfolio, présentant mes projets et mes compétences dans le développement web. Site web fait en HTML-CSS-JS et une version wordpress qui n'est pas publié car c'était un projet pour les cours.
 - **Site d'élevage canin - La Tribu de Flomomani** : Conception et développement complet d’un site pour un élevage canin, en HTML, CSS, et JavaScript, avec l'utilisation de WordPress pour faciliter la gestion des contenus.
-
-## 🌱 Actuellement en apprentissage
-Toujours curieux de découvrir de nouvelles technologies, je me forme actuellement sur :
-- **Frameworks JavaScript** : Approfondissement de mes compétences avec **Angular**.
-- **Développement backend** : Exploration de **Node.js** et **Express** pour devenir un développeur full-stack.
-- **CSS avancé** : Expérimentation avec des mises en page complexes et des animations en utilisant Tailwind et Bootstrap.
-
-## 🛠️ Projets en cours
-- **V2 de mon portfolio** : Amélioration de mon portfolio actuel en y intégrant des nouvelles fonctionnalités et en optimisant son design et ses performances.
-
-## 💡 Ce que je recherche
-Je suis à la recherche d'une **alternance** où je pourrais mettre en pratique mes compétences, apprendre au sein d'une équipe professionnelle et continuer à évoluer en tant que développeur. Je suis motivé par les nouveaux défis et impatient de travailler sur des projets enrichissants.
 
 ## 📫 Me contacter
 - **Email** : nicolaslinck83@outlook.fr
