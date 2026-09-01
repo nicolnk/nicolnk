@@ -1,10 +1,10 @@
 # 👋 Bonjour, je suis Nicolas Linck
 
-Je suis étudiant en première année de cycle ingénieur à **l'école d'ingenieur ISIS**. Actuellement à la recherche d'une **alternance** en développement full-stack ou logiciel, je suis passionné par les technologies du web et j'aime travailler sur des projets qui me poussent à améliorer mes compétences.
+Je suis étudiant en deuxième année de cycle ingénieur à **l'école d'ingenieur ISIS**. Actuellement à la recherche d'une **alternance** en développement full-stack ou logiciel, je suis passionné par les technologies du web et j'aime travailler sur des projets qui me poussent à améliorer mes compétences.
 
 ## 🚀 Compétences techniques
-- **Langages** : HTML, CSS, JavaScript, PHP, JAVA, Python
-- **Frameworks** : React, Bootstrap, Tailwind CSS, Angular (débutant), Laravel
+- **Langages** : HTML, CSS, JavaScript, PHP, JAVA, Python, Dart, Flutter
+- **Frameworks** : React, Next.js, Bootstrap, Tailwind CSS, Angular, Laravel
 - **Outils** : Figma (UI/UX), Suite Adobe (Photoshop, Illustrator), WordPress
 - **Bases de données** : MySQL, PgSQL, SQLite
 - **Autres** : Git, GitHub, JSON
@@ -18,5 +18,4 @@ Je suis étudiant en première année de cycle ingénieur à **l'école d'ingeni
 
 ## 📫 Me contacter
 - **Email** : nicolaslinck83@outlook.fr
-- **Portfolio** : [nicolaslinck.fr](https://nicolaslinck.com)
 - **LinkedIn** : [linkedin.com/in/nicolas-linck](https://www.linkedin.com/in/nicolas-linck)
